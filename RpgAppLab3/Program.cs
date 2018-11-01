@@ -17,7 +17,7 @@ namespace RpgAppLab3
             }
             {
                 var allNames = new[] { "Briana", "Ben",
-                    "David", "Dana", "Felicia", "Felix", "Legolas" };
+                    "David", "Dana", "Felicia", "Felix", "Legolas", "jhsffjh" };
                 var randomIndex = rnd.Next(allNames.Length);
                 Console.WriteLine(allNames[randomIndex]);
             }
