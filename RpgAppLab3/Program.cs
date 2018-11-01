@@ -16,9 +16,9 @@ namespace RpgAppLab3
             Console.WriteLine($"Your dice roll is: {diceRoll}");
             }
             {
-                var allNames = new[] { "Briana", "Ben",
+                var allNames = new[] {"Ben",
 
-                    "David", "Dana", "Felicia", "Felix", "Legolas, lskfj" };
+                    "David", "Dana", "Felix", "Legolas" };
 
                     
 
